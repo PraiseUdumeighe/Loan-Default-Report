@@ -89,7 +89,7 @@ These calculated columns formed the foundation for several DAX measures, dashboa
 |YTD Loan Amount|Tear-to-date total loan amount|
 |Others|Additional supporting measures used for dashboard calculations|
 
-![Measures Table](images/Loan Default Report_Measures Table.png)
+![Measures Table](images/Measures_Table.png)
 
 ---
 
@@ -123,13 +123,13 @@ An interactive Power BI dashboard was developed to provide a multi-dimensional v
 - Year-over-year trends across key risk and financial metrics.
   
 ### Dashboard 1 - Loan Default & Overview
-![Dashboard 1](images/Loan Default Report_Overview.png)
+![Dashboard 1](images/Overview.png)
 
 ### Dashboard 2 - Applicants' Demographics and Financial Profile
-![Dashboard 2](images/Loan Default Report_Applicants Demographics.png)
+![Dashboard 2](images/Applicants_Demographics.png)
 
 ### Dashboard 3 - Financial Risk Metrics
-![Dashboard 3](images/Loan Default_Financial Risk Metrics.png)
+![Dashboard 3](images/Financial_Risk_Metrics.png)
 
 ---
 
