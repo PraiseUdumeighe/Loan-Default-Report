@@ -1,11 +1,10 @@
 # Loan Default Report
 
-## 📍 Project Overview
+## 📝 Project Overview
 This project analyzes loan default risk patterns to uncover key drivers of borrower behaviour and financial risk. Using a dataset of over 255,000 loan records, I built an end-to-end analytics solution using Microsoft SQL Server and Power BI to support data-driven lending decisions.
 
 The goal was to answer a core business question:
-
-    What factors influence loan default risk, and how can financial institutions reduce exposure while optimizing lending decisions.
+What factors influence loan default risk, and how can financial institutions reduce exposure while optimizing lending decisions.
 
 ---
 
@@ -15,7 +14,7 @@ The goal was to answer a core business question:
 - [Tools Used](#-tools-used)
 - [Data Transformation](#-data-transformation)
 - [Data Preparation](#-data-preparation)
-- [Data Model & Measures](#-data-model-measures)
+- [Data Model & Measures](#-data-modelmeasures)
 - [Exploratory Data Analysis](#-exploratory-data-analysis)
 - [Key Insights](#-key-insights)
 - [Dashboard](#-dashboard)
@@ -65,7 +64,7 @@ To ensure analytical accuracy and reporting effiency, the following transformati
 
 ---
 
-## ⚙️ Data Preparation
+## 🌧️ Data Preparation
 Calculated columns were created in Power BI Desktop and used extensively in dashboard development. These columns enabled grouping, filtering and deeper analysis.
 - **Age Groups** - Segmented customers into life stages for behavioural analysis (Teens, Adults, Middle Age Adults, Senior Citizens)
 - **Credit Score Bins** - Classified customers into risk tiers.(High, Medium, Low, Very Low)
@@ -90,7 +89,7 @@ These calculated columns formed the foundation for several DAX measures, dashboa
 |YTD Loan Amount|Tear-to-date total loan amount|
 |Others|Additional supporting measures used for dashboard calculations|
 
-[!Measures Table](images/Loan Default Report_Measures Table.png)
+![Measures Table](images/Loan Default Report_Measures Table.png)
 
 ---
 
@@ -124,13 +123,13 @@ An interactive Power BI dashboard was developed to provide a multi-dimensional v
 - Year-over-year trends across key risk and financial metrics.
   
 ### Dashboard 1 - Loan Default & Overview
-[!Dashboard 1](images/Loan Default Report_Overview.png)
+![Dashboard 1](images/Loan Default Report_Overview.png)
 
 ### Dashboard 2 - Applicants' Demographics and Financial Profile
-[!Dashboard 2](images/Loan Default Report_Applicants Demographics.png)
+![Dashboard 2](images/Loan Default Report_Applicants Demographics.png)
 
 ### Dashboard 3 - Financial Risk Metrics
-[!Dashboard 3](images/Loan Default_Financial Risk Metrics.png)
+![Dashboard 3](images/Loan Default_Financial Risk Metrics.png)
 
 ---
 
