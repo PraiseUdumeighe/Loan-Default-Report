@@ -14,7 +14,7 @@ What factors influence loan default risk, and how can financial institutions red
 - [Tools Used](#-tools-used)
 - [Data Transformation](#-data-transformation)
 - [Data Preparation](#-data-preparation)
-- [Data Model & Measures](#-data-modelmeasures)
+- [Data Model & Measures](#-data-model--measures)
 - [Exploratory Data Analysis](#-exploratory-data-analysis)
 - [Key Insights](#-key-insights)
 - [Dashboard](#-dashboard)
@@ -64,7 +64,7 @@ To ensure analytical accuracy and reporting effiency, the following transformati
 
 ---
 
-## 🌧️ Data Preparation
+## 📊 Data Preparation
 Calculated columns were created in Power BI Desktop and used extensively in dashboard development. These columns enabled grouping, filtering and deeper analysis.
 - **Age Groups** - Segmented customers into life stages for behavioural analysis (Teens, Adults, Middle Age Adults, Senior Citizens)
 - **Credit Score Bins** - Classified customers into risk tiers.(High, Medium, Low, Very Low)
